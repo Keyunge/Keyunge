@@ -9,11 +9,11 @@ if you want to help me :3
 
 ## Workflow
 
-* Laptop:····Asus Vivobook Go 15
-* OS:········Arch linux (btw)
-* Tiling:····Hyprland
-* IDE:·······Codium insiders
-* Shell:·····Zsh
+* Laptop: Asus Vivobook Go 15
+* OS: Arch linux (btw)
+* Tiling: Hyprland
+* IDE: Codium insiders
+* Shell: Zsh
 ## About projects
 
 Currently, i'm focused on cool CLI and TUI programs,
