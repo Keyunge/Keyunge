@@ -1,7 +1,6 @@
 
 
-## Hi, Keyunge here. A beginner programmer, 
-## that's using arch and (still) learning C++ in just 14 years.
+## Hi, Keyunge here. A beginner programmer, that's using arch and (still) learning C++ in just 14 years.
 
 If you have any questions about me, you can connect in telegram
 
